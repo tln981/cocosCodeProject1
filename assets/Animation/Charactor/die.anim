@@ -1,0 +1,121 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "die",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 30,
+  "speed": 0.1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "706c3afc-440a-4148-bbdf-34ffabf1cfc0"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "4089e3c3-e18d-47ce-8e2a-2c9e840beb7a"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "086cb51a-da42-4720-a351-accd0f1a51d3"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "babe8a5f-9836-4298-9111-74ee994b3fda"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "cc6ae832-316f-4b52-8fc1-701d1616c613"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "ecc3e276-1f61-470d-882e-388f87a83624"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "9b9a5020-3033-4672-aaca-d952745747ec"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "44d1ad35-c3de-48e6-9097-25547863063b"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "color": [
+        {
+          "frame": 0.26666666666666666,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 200,
+            "g": 200,
+            "b": 200,
+            "a": 255
+          }
+        },
+        {
+          "frame": 0.3,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 150,
+            "g": 150,
+            "b": 150,
+            "a": 255
+          }
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 100,
+            "g": 100,
+            "b": 100,
+            "a": 255
+          }
+        },
+        {
+          "frame": 0.36666666666666664,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 50,
+            "g": 50,
+            "b": 50,
+            "a": 255
+          }
+        },
+        {
+          "frame": 0.4,
+          "value": {
+            "__type__": "cc.Color",
+            "r": 0,
+            "g": 0,
+            "b": 0,
+            "a": 255
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}
